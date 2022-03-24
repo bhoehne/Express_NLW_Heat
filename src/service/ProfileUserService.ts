@@ -1,4 +1,3 @@
-
 import prismaClient from "../prisma";
 
 class ProfileUserService {
